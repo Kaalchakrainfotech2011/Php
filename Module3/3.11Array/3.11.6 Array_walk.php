@@ -1,7 +1,7 @@
 <?php
 
 //function runs each array element in a user-defined function. The array's keys and values are parameters in the function.
-$array4 = array('check',"TOPS","techno",123,123.123,true);
+$array4 = array('check',"Kaalchakra","techno",123,123.123,true);
 echo "<pre>";
 print_r($array4);
 

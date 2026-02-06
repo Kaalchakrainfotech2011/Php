@@ -46,16 +46,16 @@ $util->log("hii");
 // echo $util->setLogger(new Logger());
 
 
-$var = "TOPS";
-$_var = "TOPS";
-$array = "TOPS";
-// $*var = "TOPS";
-// $@var = "TOPS"; //all Special char not supported exept _
-// $1Var = "TOPS"; //Numeric value at starting does not allow
+$var = "Kaalchakra";
+$_var = "Kaalchakra";
+$array = "Kaalchakra";
+// $*var = "Kaalchakra";
+// $@var = "Kaalchakra"; //all Special char not supported exept _
+// $1Var = "Kaalchakra"; //Numeric value at starting does not allow
 
 
 $num = 50;
-$text = "10TOPS";
+$text = "10Kaalchakra";
 echo "<br>";
 var_dump($text);
 echo "<br>";

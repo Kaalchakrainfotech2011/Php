@@ -12,9 +12,9 @@ echo "<br>";
 
 
 //find string position
-echo strpos("TOPS Technology","Technology"); 
+echo strpos("Kaalchakra Technology","Technology"); 
 echo "<br>";
-echo addslashes("TOPS'' Technology");
+echo addslashes("Kaalchakra'' Technology");
 
 $str = addcslashes("Hello World! t","t");
 echo($str); 
@@ -53,7 +53,7 @@ $String = "This Is 'the' string";
 echo addslashes($String);
 
 echo "<br> ============ String ==============<br>";
-echo $StringForExplode = "Welcome to TOPS Technology";
+echo $StringForExplode = "Welcome to Kaalchakra Technology";
 
 echo "<br> ============ explode ==============<br>";
 $strtoarray = explode(' ',$StringForExplode);
@@ -73,7 +73,7 @@ echo $HobbyArray[1].','.$HobbyArray[2].'<br>';
 echo $ImplodeStr = implode(',',$HobbyArray );
 
 echo "<br> ============ MD5 ==============<br>";
-echo $md5str = 'TOPS Technology';
+echo $md5str = 'Kaalchakra Technology';
 echo "<br>";
 echo md5($md5str);
 

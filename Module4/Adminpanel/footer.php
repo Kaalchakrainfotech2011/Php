@@ -1,6 +1,6 @@
 
     <div id="footer-sec">
-        &copy; 2019 Tops Technology | Design By : <a href="http://www.binarytheme.com/" target="_blank">topsint.com</a>
+        &copy; 2019 kaalchakra Technology | Design By : <a href="http://www.binarytheme.com/" target="_blank">kaalchakraint.com</a>
     </div>
     <!-- /. FOOTER  -->
     <!-- SCRIPTS -AT THE BOTOM TO REDUCE THE LOAD TIME-->

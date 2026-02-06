@@ -19,11 +19,11 @@ echo SumOfTow(10,20);
 
 
 //default parametrised function 
-function sayHello($name="Tops"){  
+function sayHello($name="Kaalchakra"){  
 echo "Hello $name<br/>";  
 }  
 sayHello("Margi");//output=margi  
-sayHello();//passing no value  //opuput=Tops
+sayHello();//passing no value  //opuput=Kaalchakra
 sayHello(null);//output blank
 //default function end 
 

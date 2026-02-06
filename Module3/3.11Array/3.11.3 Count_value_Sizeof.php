@@ -1,6 +1,6 @@
 <?php
 //size of array example for calculate number of array elements
-$a = array("Name","TOPS","techno","Name",123,456.1,true);
+$a = array("Name","Kaalchakra","techno","Name",123,456.1,true);
 echo "<pre>";
 print_r($a);
 print_R(array_count_values($a));

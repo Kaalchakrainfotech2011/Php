@@ -11,7 +11,7 @@
 // Variable names are case-sensitive ($age and $AGE are two different variables)
 
 $a = 10;
-$string = "Tops tech";
+$string = "Kaalchakra infotech";
 
 
 

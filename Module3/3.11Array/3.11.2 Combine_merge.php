@@ -14,7 +14,7 @@ $age=array("a"=>"35","abbbbs"=>"37","acc"=>"43","test");
 
 
 // $clm = array("username","password","gender");
-// $val = array("TOPS","123","Male");
+// $val = array("Kaalchakra","123","Male");
 
 
 echo "<pre>";

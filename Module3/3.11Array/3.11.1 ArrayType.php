@@ -1,6 +1,6 @@
 <?php  
 //simple array function
-$a = array("TOPS","Techno",123,123.123,true);
+$a = array("Kaalchakra","Techno",123,123.123,true);
 echo "<pre>";
 print_r($a);
 var_dump($a);
@@ -9,14 +9,14 @@ var_export($a);
 
 // types of array
 // 1> numeric/ index array
-	$a = array("TOPS","Techno",123,123.123,true); // array keys are defined as number only
-	$numeric1 = array("790"=>"TOPS","788"=>"Techno","789"=>123);
-	$a = array("790"=>"TOPS","788"=>"Techno","789"=>123,"test");
+	$a = array("Kaalchakra","Techno",123,123.123,true); // array keys are defined as number only
+	$numeric1 = array("790"=>"Kaalchakra","788"=>"Techno","789"=>123);
+	$a = array("790"=>"Kaalchakra","788"=>"Techno","789"=>123,"test");
 
 
 // 2> Assciative array
-	$a = array("FName"=>"TOPS","Lname"=>"Techno","Password"=>123); // keys are user defined and it's must contain alph-numeric val
-	$a = array("FName"=>"TOPS","Lname"=>"Techno","Password"=>123,23.123); 
+	$a = array("FName"=>"Kaalchakra","Lname"=>"Techno","Password"=>123); // keys are user defined and it's must contain alph-numeric val
+	$a = array("FName"=>"Kaalchakra","Lname"=>"Techno","Password"=>123,23.123); 
 	
 
 
